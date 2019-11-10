@@ -1,0 +1,14 @@
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\obj\Debug\TestEntity.Principal.resources
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\obj\Debug\TestEntity.Properties.Resources.resources
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\obj\Debug\TestEntity.csproj.GenerateResource.Cache
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\bin\Debug\TestEntity.exe.config
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\bin\Debug\TestEntity.exe
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\bin\Debug\TestEntity.pdb
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\bin\Debug\EntityFramework.dll
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\bin\Debug\EntityFramework.xml
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\obj\Debug\TestEntity.csprojResolveAssemblyReference.cache
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\obj\Debug\TestEntity.exe
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\obj\Debug\TestEntity.pdb
+C:\Users\Armando\Desktop\DEVELOPER\TestEntity\TestEntity\obj\Debug\TestEntity.Views.Registrar.resources
